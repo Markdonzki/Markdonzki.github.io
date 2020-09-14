@@ -8,15 +8,16 @@ $(document).ready(function () {
 
     // computer technology
 
-    // {
-    //     link: "sellers/markjasonpespelita/1product.html",
-    //     img: "sellers/markjasonpespelita/1product/monsta-fashion-website-template.jpg",
-    //     product_name: "Espelita Web Design",
-    //     price: "Negotiable",
-    //     category: "Computer/Technology",
-    //     date: "September 8, 2020",
-    //     location: "Brgy. Salvacion San Isidro Northern Samar"
-    // },
+    {
+      link: "sellers/markjasonpespelita/1product.html",
+      img:
+        "sellers/markjasonpespelita/1product/monsta-fashion-website-template.jpg",
+      product_name: "Espelita Web Design",
+      price: "Negotiable",
+      category: "Computer/Technology",
+      date: "September 8, 2020",
+      location: "Brgy. Salvacion San Isidro Northern Samar",
+    },
 
     // fashion
 
@@ -26,24 +27,24 @@ $(document).ready(function () {
 
     // health
 
-    // {
-    //     link: "sellers/cherrymjcapuno/p1.html",
-    //     img: "sellers/cherrymjcapuno/img/p1.jpg",
-    //     product_name: "Hygienix Hand Sanitizer",
-    //     price: "Retail: 50php, Wholesale: 45php",
-    //     category: "Health",
-    //     date: "September 8, 2020",
-    //     location: "Brgy. East Awang Calbayog City"
-    // },
-    // {
-    //     link: "sellers/cherrymjcapuno/p2.html",
-    //     img: "sellers/cherrymjcapuno/img/p2.jpg",
-    //     product_name: "Isopropyl Alcohol",
-    //     price: "Retail: 58php, Wholesale: 55php",
-    //     category: "Health",
-    //     date: "September 8, 2020",
-    //     location: "Brgy. East Awang Calbayog City"
-    // },
+    {
+      link: "sellers/cherrymjcapuno/p1.html",
+      img: "sellers/cherrymjcapuno/img/p1.jpg",
+      product_name: "Hygienix Hand Sanitizer",
+      price: "Retail: 50php, Wholesale: 45php",
+      category: "Health",
+      date: "September 8, 2020",
+      location: "Brgy. East Awang Calbayog City",
+    },
+    {
+      link: "sellers/cherrymjcapuno/p2.html",
+      img: "sellers/cherrymjcapuno/img/p2.jpg",
+      product_name: "Isopropyl Alcohol",
+      price: "Retail: 58php, Wholesale: 55php",
+      category: "Health",
+      date: "September 8, 2020",
+      location: "Brgy. East Awang Calbayog City",
+    },
     {
       link: "sellers/cherrymjcapuno/p3.html",
       img: "sellers/cherrymjcapuno/img/p3.jpg",
@@ -107,15 +108,15 @@ $(document).ready(function () {
       date: "September 8, 2020",
       location: "Brgy. East Awang Calbayog City",
     },
-    // {
-    //   link: "sellers/cherrymjcapuno/p12.html",
-    //   img: "sellers/cherrymjcapuno/img/p12.jpg",
-    //   product_name: "Faceshield",
-    //   price: "45php",
-    //   category: "Health",
-    //   date: "September 8, 2020",
-    //   location: "Brgy. East Awang Calbayog City",
-    // },
+    {
+      link: "sellers/cherrymjcapuno/p12.html",
+      img: "sellers/cherrymjcapuno/img/p12.jpg",
+      product_name: "Faceshield",
+      price: "45php",
+      category: "Health",
+      date: "September 8, 2020",
+      location: "Brgy. East Awang Calbayog City",
+    },
 
     // home appliances
 
